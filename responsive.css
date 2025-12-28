@@ -92,8 +92,8 @@
 		padding: 12px 12px 5px;
 	}
 	.form_area input:focus{
-  		outline:  1px solid #989898;
-  		/*box-shadow: 0 0 0 2px rgba(8,102,255,.2);*/
+  		outline: none;                 
+  		border: 1.5px solid #808080;
 	}
 	.form_area input {
 		padding: 22px;
@@ -201,5 +201,4 @@
 		color: #8a8d91;
 		text-decoration: none;
 	}
-
 }

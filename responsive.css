@@ -91,7 +91,7 @@
 		box-shadow: 0 0 0 ;
 	}
 	.form_area input {
-		padding: 20px;
+		padding: 23px;
 		width: 100%;
 		border-radius: 15px;
 		/*align-items: center;*/
@@ -127,13 +127,14 @@
 	}
 
 	.form_area input::placeholder {
-  		color: #2B2B2B;
-  		font-size: 14px;
+  		/*color: #2B2B2B;*/
+  		font-size: 15px;
 	}
 	.form_area p, p a {
 		display: none;
 	}
 	.form_area  a {
+		font-size: 15px;
 		margin-top: 10px;
 		color: #1c1e21;
 		margin-bottom: 150px;

@@ -34,7 +34,7 @@
 		/*margin-bottom: 100px;*/
 	}
 	.meta1 {
-		top: 25px;
+		top: 20px;
 		position: relative;
 		margin-bottom: 20px;
 		border-bottom: 1px solid #ddd;
@@ -48,7 +48,7 @@
 	.metaimg {
 		margin-left: 10px;
 		margin-right: 5px;
-		margin-top: 4px;
+		margin-top: 2px;
 	}
 	.meta1 h3 a {
 		position: relative;
@@ -68,12 +68,12 @@
 	.metalg h4 {
 		margin-bottom: 30px;
 		color: #8a8d91;
-		font-size: 10px;
-		margin-top: 5px;
+		font-size: 14px;
+		margin-top: 15px;
 
 	}
 	.metalg img {
-		width: 50px;
+		width: 60px;
 		margin-top: 40px;
 		margin-bottom:50px;
 	}
@@ -133,7 +133,7 @@
 	.form_area  a {
 		margin-top: 10px;
 		color: #1c1e21;
-		margin-bottom: 200px;
+		margin-bottom: 150px;
 	}
 	.btn{
 		/*display: inline-block;*/

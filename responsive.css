@@ -34,9 +34,10 @@
 		/*margin-bottom: 100px;*/
 	}
 	.meta1 {
-		top: 20px;
+		top: 25px;
+		padding-bottom: 10px;
 		position: relative;
-		margin-bottom: 20px;
+		margin-bottom: 30px;
 		border-bottom: 1px solid #ddd;
 	}
 	.meta1 {
@@ -51,11 +52,12 @@
 		margin-top: 2px;
 	}
 	.meta1 h3 a {
+		/*margin-bottom: 5px;*/
 		position: relative;
 		top: 3px;
 		text-decoration: none;
 		color: #0866ff;
-		font-size: 13px;
+		font-size: 15px;
 		font-weight: normal;
 	}
 	.meta1 h3 a:hover {
@@ -66,6 +68,7 @@
 		/*margin-bottom: 300px;*/
 	}
 	.metalg h4 {
+		font-weight: normal;
 		margin-bottom: 30px;
 		color: #8a8d91;
 		font-size: 14px;

@@ -78,7 +78,7 @@
 	.metalg img {
 		width: 60px;
 		margin-top: 40px;
-		margin-bottom:65px;
+		margin-bottom:70px;
 	}
 	.form_area {
 		display: flex;
@@ -92,7 +92,7 @@
 		padding: 12px 12px 0 ;
 	}
 	.form_area input {
-		padding: 20px;
+		padding: 25px;
 		margin-bottom: 10px;
 		width: 100%;
 		border-radius: 15px;
@@ -101,7 +101,7 @@
 		color: #1c1e21;
 	}
 	.form_area input[type="button"] {
-		border-radius: 20px;
+		border-radius: 25px;
 		padding: 13px;
 		font-weight: normal;
 		font-size: 14px;
@@ -177,7 +177,7 @@
 	 .metta img {
 	 	margin-top: 12px;
 	 	/*display: block;*/
-		width: 60px;
+		width: 65px;
 		position: relative;
 		margin: 0 auto;
 		margin-bottom: 15px;

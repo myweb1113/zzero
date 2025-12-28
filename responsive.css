@@ -91,6 +91,11 @@
 		box-shadow: 0 0 0 ;
 		padding: 12px 12px 5px;
 	}
+	.form_area input:focus{
+  		outline: none;                 
+  		border: 1px solid #989898;
+  		/*box-shadow: 0 0 0 2px rgba(8,102,255,.2);*/
+	}
 	.form_area input {
 		padding: 22px;
 		margin-bottom: 10px;

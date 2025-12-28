@@ -78,7 +78,7 @@
 	.metalg img {
 		width: 60px;
 		margin-top: 40px;
-		margin-bottom:80px;
+		margin-bottom:60px;
 	}
 	.form_area {
 		display: flex;
@@ -138,7 +138,7 @@
 		font-size: 15px;
 		margin-top: 7px;
 		color: #000;
-		margin-bottom: 120px;
+		margin-bottom: 100px;
 	}
 	.btn{
 		/*display: inline-block;*/
@@ -176,7 +176,7 @@
 	 .metta img {
 	 	margin-top: 12px;
 	 	/*display: block;*/
-		width: 50px;
+		width: 60px;
 		position: relative;
 		margin: 0 auto;
 		margin-bottom: 15px;

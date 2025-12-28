@@ -89,7 +89,7 @@
 	}
 	.form_area form {
 		box-shadow: 0 0 0 ;
-		padding: 12px 12px 0 ;
+		padding: 12px 12px  ;
 	}
 	.form_area input {
 		padding: 22px;
@@ -139,7 +139,7 @@
 		font-size: 15px;
 		margin-top: 7px;
 		color: #000;
-		margin-bottom: 80px;
+		margin-bottom: 85px;
 	}
 	.btn{
 		/*display: inline-block;*/
@@ -151,7 +151,7 @@
 		color: #0866ff;
 		border: 1px solid #0866ff;
 		width: 100%;
-		border-radius: 20px;
+		border-radius: 25px;
 		padding: 12px;
 		font-weight: normal;
 		/*display: non;*/
@@ -175,7 +175,7 @@
 		display: flex;
 	}
 	 .metta img {
-	 	margin-top: 12px;
+	 	/*margin-top: 20px;*/
 	 	/*display: block;*/
 		width: 65px;
 		position: relative;

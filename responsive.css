@@ -35,7 +35,7 @@
 	}
 	.meta1 {
 		top: 25px;
-		padding-bottom: 10px;
+		padding-bottom: 5px;
 		position: relative;
 		margin-bottom: 30px;
 		border-bottom: 1px solid #ddd;
@@ -57,7 +57,7 @@
 		top: 3px;
 		text-decoration: none;
 		color: #0866ff;
-		font-size: 15px;
+		font-size: 14px;
 		font-weight: normal;
 	}
 	.meta1 h3 a:hover {
